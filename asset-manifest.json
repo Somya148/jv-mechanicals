@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jv-mechanicals/static/css/main.d9199d0a.css",
+    "main.js": "/jv-mechanicals/static/js/main.9a5c1308.js",
+    "static/js/453.0ff6d721.chunk.js": "/jv-mechanicals/static/js/453.0ff6d721.chunk.js",
+    "index.html": "/jv-mechanicals/index.html",
+    "main.d9199d0a.css.map": "/jv-mechanicals/static/css/main.d9199d0a.css.map",
+    "main.9a5c1308.js.map": "/jv-mechanicals/static/js/main.9a5c1308.js.map",
+    "453.0ff6d721.chunk.js.map": "/jv-mechanicals/static/js/453.0ff6d721.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9199d0a.css",
+    "static/js/main.9a5c1308.js"
+  ]
+}
